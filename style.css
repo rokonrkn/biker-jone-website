@@ -1,0 +1,33 @@
+.body-hight{
+    height: 450px;
+    background-color: darkslategray;
+}
+.row img{
+    padding-top: 30px;
+    width: 75%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+.text-color{
+    color: chocolate;
+    border-bottom: 2px solid chocolate;
+}
+.margin-top{
+    margin-top: 10%;
+}
+.card1{
+    border: none;
+    box-shadow: 5px 5px 10px grey
+
+}
+.border-text{
+    border: 1px solid grey;
+    padding: 2%;
+    border-radius: 5px;
+}
+footer{
+    margin-top: 15%;
+    text-align: center;
+    color: orange;
+}
